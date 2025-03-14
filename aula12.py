@@ -44,3 +44,19 @@ else:
           print("idade valida")
         else:
             print("idade invalida")
+
+        salario = int(input("digite o salario: r$"))
+        if salario > 0:
+            print(f"o salario invalido")
+        else:
+            print("salario invalido")
+
+            sexo= input("digite o sexo  [m , f, outro] ")
+            if sexo.upper == "m":
+                print("sexo masculino")
+            elif sexo.upper == "f":
+                print("sexo feminino.")
+            elif sexo. lower == "outro":
+                print("sexo outro")
+            else:
+                print("sexo invalido")
