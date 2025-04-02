@@ -1,4 +1,4 @@
-# EXERCÍCIOS WHILE
+ #EXERCÍCIOS WHILE
 
 #  1. Adivinhação de números:
 #  • Criem uma lista com 10 números.
